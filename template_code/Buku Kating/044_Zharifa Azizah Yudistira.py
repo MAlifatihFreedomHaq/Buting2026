@@ -115,7 +115,7 @@ if menu == "Kesekjenan":
                 "alamat": "Sekretariat HMSD",
                 "hobbi": "Push Rank sampe IMO",
                 "sosmed": "@jars_mrp",
-                "kesan": "Bang Ginda kesannya baik, seru, asik juga dan ternyata sesuai sama kesannya, terus pas wawancara juga jawaban abangnya keren",  
+                "kesan": "Bang Ginda kesannya baik, seru, asik juga dan ternyata sesuai sama kesannya, terus pas wawancara juga jawaban abangnya keren",
                 "pesan": "Semangat abang kahim, semoga cepat selesai TA nyaa"
             },
             {
@@ -126,7 +126,7 @@ if menu == "Kesekjenan":
                 "alamat": "Sekretariat HMSD",
                 "hobbi": "Dzikir",
                 "sosmed": "@muhammadaqil1111",
-                "kesan": "Abangnya baik, terus kalo ngajar materi juga seru, keren juga kalo ngasih petuah bijak banget jujur",  
+                "kesan": "Abangnya baik, terus kalo ngajar materi juga seru, keren juga kalo ngasih petuah bijak banget jujur",
                 "pesan": "Semangat abang sekjen kita semester 7 nyaa, semoga TA cepet selesaii ketemu di riuh wisudah nanti kitaa abang"
             },
             {
@@ -137,7 +137,7 @@ if menu == "Kesekjenan":
                 "alamat": "Airan",
                 "hobbi": "Membaca",
                 "sosmed": "@eeffiidefi",
-                "kesan": "Kakak cantik sekali, baik jugaa, ramah, cantik pokoknya",  
+                "kesan": "Kakak cantik sekali, baik jugaa, ramah, cantik pokoknya",
                 "pesan": "Semangat kakak sekre kita yang paling cantik, semoga TA nya cepat selesaii"
             },
             {
@@ -148,7 +148,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Mainin Surat",
                 "sosmed": "@qoisolifio_",
-                "kesan": "Abangnya keren, baik banget saat wawancara, seruu banget jugaa",  
+                "kesan": "Abangnya keren, baik banget saat wawancara, seruu banget jugaa",
                 "pesan": "Semangat abang menjalankan tupoksinya dan semangat juga untuk TA nya abangg"
             },
             {
@@ -159,7 +159,7 @@ if menu == "Kesekjenan":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Berenang",
                 "sosmed": "@hafsafazilaa",
-                "kesan": "Kakaknya cantik terus seru jugaa pas wawancara, kerenn kakaknyaa",  
+                "kesan": "Kakaknya cantik terus seru jugaa pas wawancara, kerenn kakaknyaa",
                 "pesan": "Semangat kakak bendaharaa, semoga TA nya cepat selesai kakak"
             },
             {
@@ -170,7 +170,7 @@ if menu == "Kesekjenan":
                 "alamat": "Airan",
                 "hobbi": "Bertemu Pak Tirta",
                 "sosmed": "@luthfiaarmdhni",
-                "kesan": "Kakaknya cantik terus lucuu banget hobi ketemu pak tirtaa",  
+                "kesan": "Kakaknya cantik terus lucuu banget hobi ketemu pak tirtaa",
                 "pesan": "Semangat kakak mengerjakan TA, meet sama pak tirta + menjalankan tupoksinya"
             },
         ]
@@ -203,7 +203,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "GH",
                 "hobbi": "Wawancara",
                 "sosmed": "@iamridhomanik",
-                "kesan": "Kesan pertama kali liat bang dido kek serem abangnya, ternyata baik banget, seru, asik, sangat masyallah tabarakallah",  
+                "kesan": "Kesan pertama kali liat bang dido kek serem abangnya, ternyata baik banget, seru, asik, sangat masyallah tabarakallah",
                 "pesan": "Semangat bang ayah main futsalnya, hati-hati dijalan jangan lupa live nyaa, anakmu ini selalu mendoakanmu"
             },
             {
@@ -214,7 +214,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Pelangi",
                 "hobbi": "Dengerin lagu semusim dari marsel",
                 "sosmed": "@j__eesie",
-                "kesan": "Kakaknya cantikk banget, suka kalo ngobrol sama kak jue banyak obrolannya terus kakaknya seru banget jugaa",  
+                "kesan": "Kakaknya cantikk banget, suka kalo ngobrol sama kak jue banyak obrolannya terus kakaknya seru banget jugaa",
                 "pesan": "Semangat kakak cantik TA dan penyiarannyaa, aku fans berat kakak, ditunggu cerita-cerita seru lainnyaa"
             },
             {
@@ -225,7 +225,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngidupin api baleg di tiktok",
                 "sosmed": "@exvoltas",
-                "kesan": "Abang ini keren banget pas KDP, aku ngefans bang, terus pintarnya pintar banget (wajar ozt ini)",  
+                "kesan": "Abang ini keren banget pas KDP, aku ngefans bang, terus pintarnya pintar banget (wajar ozt ini)",
                 "pesan": "Infokan tutor mapress nya dong abangdaa"
             },
             {
@@ -236,7 +236,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Jati Agung",
                 "hobbi": "COD Musang",
                 "sosmed": "@me._kael",
-                "kesan": "Bang niko baik banget, sangat chill, sangat baik, sangat keren",  
+                "kesan": "Bang niko baik banget, sangat chill, sangat baik, sangat keren",
                 "pesan": "Semangat abangg kuliahnyaa, infokan tutor jadi pimsit"
             },
             {
@@ -247,7 +247,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Kedaton",
                 "hobbi": "Mancing",
                 "sosmed": "@syt.rifa",
-                "kesan": "Kakaknya cantik, terus kaget karena nama kami mirip, kakaknya sarifah aku zharifa, sama sama dipanggil rifa lagi",  
+                "kesan": "Kakaknya cantik, terus kaget karena nama kami mirip, kakaknya sarifah aku zharifa, sama sama dipanggil rifa lagi",
                 "pesan": "Semangat kakak rifa kuliahnya - dari adik rifa"
             },
             {
@@ -258,7 +258,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Sukabumi",
                 "hobbi": "Minum Kopi",
                 "sosmed": "@givarooo",
-                "kesan": "Bang gip seru banget orangnya, asik, baik bangett juga, penjelasan studi kasusnya masuk akal",  
+                "kesan": "Bang gip seru banget orangnya, asik, baik bangett juga, penjelasan studi kasusnya masuk akal",
                 "pesan": "Tutorkan kiat jadi kepala komisi II banggg"
             },
             {
@@ -269,7 +269,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Owen Kost",
                 "hobbi": "Ngoding",
                 "sosmed": "@afghanisnt_",
-                "kesan": "Kakaknya cantik dan baik bangett pas ngewawancarai aku, seru jugaa, terus kakaknya pas ngejawab pertanyaan di kelas masuk akal banget",  
+                "kesan": "Kakaknya cantik dan baik bangett pas ngewawancarai aku, seru jugaa, terus kakaknya pas ngejawab pertanyaan di kelas masuk akal banget",
                 "pesan": "Kakak pj kami semangat yaa ngejalanin tupoksinyaa, semangat juga menghadapi huru hara semester 5 nyaa"
             },
             {
@@ -280,7 +280,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Sukarame",
                 "hobbi": "Baca AU",
                 "sosmed": "@haniquratuain_",
-                "kesan": "Kakak ini cantik bangett, suka kalo ngeliat kakak ini karena cantik banget pas aku di semester 1",  
+                "kesan": "Kakak ini cantik bangett, suka kalo ngeliat kakak ini karena cantik banget pas aku di semester 1",
                 "pesan": "Semangat kak hani kuliahnyaa, semangat juga di baleg nya, kelompok greedy cinta kakak kokk"
             },
             {
@@ -291,7 +291,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Teluk",
                 "hobbi": "Nyanyi, olahraga",
                 "sosmed": "@jeremia_hm",
-                "kesan": "Abang ini keren banget kalo nyanyii udah kek lagi di Orkestra Sydney",  
+                "kesan": "Abang ini keren banget kalo nyanyii udah kek lagi di Orkestra Sydney",
                 "pesan": "Abang semangat kuliahnya, semangat ketok ketok palunyaa, semangat abangg"
             },
             {
@@ -302,7 +302,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Kotabaru",
                 "hobbi": "Lari",
                 "sosmed": "@monica_tjg",
-                "kesan": "Kak monica keren banget pas ngejawab kalo dikasih pertanyaan, sukaa kerenn, cantik banget kakaknya jugaa",  
+                "kesan": "Kak monica keren banget pas ngejawab kalo dikasih pertanyaan, sukaa kerenn, cantik banget kakaknya jugaa",
                 "pesan": "Kak monica semangat kuliahnyaa, semangat jugaa di baleg, kamu keren kak cantik bangett"
             },
             {
@@ -313,7 +313,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Pemda Raya",
                 "hobbi": "Gym sama Koleksi figure, nafas manual",
                 "sosmed": "@nagatseee",
-                "kesan": "Abangnya asik banget, baik banget, keren banget, palu nya juga keren banget",  
+                "kesan": "Abangnya asik banget, baik banget, keren banget, palu nya juga keren banget",
                 "pesan": "Abang semangat kuliahnyaa, semangat ngebalegnyaa, infokan tutor ketok-ketok palunya bang"
             },
             {
@@ -324,7 +324,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Pemda",
                 "hobbi": "Jajan sama nisa, putri, suci",
                 "sosmed": "@sekardnwp",
-                "kesan": "Kakaknya baik bangett, seru ngobrol sama kakaknya, terus ternyata kakaknya di baleg keren bangettt",  
+                "kesan": "Kakaknya baik bangett, seru ngobrol sama kakaknya, terus ternyata kakaknya di baleg keren bangettt",
                 "pesan": "Semangat kak sekar pdd-in balegnyaa, semangat juga kuliahnyaa kakak"
             },
             {
@@ -335,7 +335,7 @@ elif menu == "Badan Legislatif":
                 "alamat": "Belwis",
                 "hobbi": "Nyapa angin",
                 "sosmed": "@nshaysk",
-                "kesan": "Kakaknya cantik banget, ceria banget, suka kalo ngobrol sama kakak soalnya kakaknya seru banget pas diajak ngobrol",  
+                "kesan": "Kakaknya cantik banget, ceria banget, suka kalo ngobrol sama kakak soalnya kakaknya seru banget pas diajak ngobrol",
                 "pesan": "Kak Nashwa semangat yaa TA nyaa, sehat sehat kakak semester 7 dan kakak baleg"
             },
         ]
@@ -365,7 +365,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Airan",
                 "hobbi": "Nulis Medium",
                 "sosmed": "@fathinahnaazh",
-                "kesan": "Kakaknya keren banget jujur, hebat banget bisa jadi senator terus kakaknya cantik banget",  
+                "kesan": "Kakaknya keren banget jujur, hebat banget bisa jadi senator terus kakaknya cantik banget",
                 "pesan": "Semangat kakak cantikk kuliahnyaa, semangat juga menyampaikan aspirasi kami kakak dan terimakasih"
             },
             {
@@ -376,7 +376,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Kedamaian",
                 "hobbi": "Ngesen kiri",
                 "sosmed": "@helmy_ist",
-                "kesan": "Abang ini lucu bangett pas wawancaraa #dutamelet, baik banget jujur, asik banget juga",  
+                "kesan": "Abang ini lucu bangett pas wawancaraa #dutamelet, baik banget jujur, asik banget juga",
                 "pesan": "Semangat abang baik kuliahnyaa, kamu keren bangg"
             },
             {
@@ -387,7 +387,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Sebelah kamar biwa",
                 "hobbi": "Badminton",
                 "sosmed": "@barus.fernando",
-                "kesan": "Bang nando baik orangnya, seru jugaa, keren juga, masyallah sekali",  
+                "kesan": "Bang nando baik orangnya, seru jugaa, keren juga, masyallah sekali",
                 "pesan": "Semangatt abang kuliahnyaaa"
             },
             {
@@ -398,7 +398,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Kota Baru",
                 "hobbi": "Bikin video random dan upload di second",
                 "sosmed": "@sciia_staff",
-                "kesan": "Kakaknya cantik bangett, pertama kali ketemu kakaknya aku kaget karena cantik nya cantik banget",  
+                "kesan": "Kakaknya cantik bangett, pertama kali ketemu kakaknya aku kaget karena cantik nya cantik banget",
                 "pesan": "Semangat kak sucii kuliah dan mendampingi cosvalnyaa, jangan lupa senyum kakak cantik"
             },
             {
@@ -409,7 +409,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Asrama TB3",
                 "hobbi": "Mancing",
                 "sosmed": "@wielhawny",
-                "kesan": "Abangnya asik bangettt seruuuuuu, baik banget banget jugaa, seru ngobrol sama abangnya",  
+                "kesan": "Abangnya asik bangettt seruuuuuu, baik banget banget jugaa, seru ngobrol sama abangnya",
                 "pesan": "Semangat bang wielman kuliahnyaa, semangat juga agenda mancingnyaa"
             },
             {
@@ -420,7 +420,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Belwis",
                 "hobbi": "Nyari jurnal",
                 "sosmed": "@lia.h_264",
-                "kesan": "Kak lia itu keren bangett pas nyampaikan materi, keren banget, aku kagumm",  
+                "kesan": "Kak lia itu keren bangett pas nyampaikan materi, keren banget, aku kagumm",
                 "pesan": "Semangat kak lia kuliahnyaa, semangat juga ngerjain TA nyaa semoga cepat selesai"
             },
             {
@@ -431,7 +431,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Sukarame",
                 "hobbi": "Mendokumentasikan bayyesian",
                 "sosmed": "@aqilazayyaan",
-                "kesan": "Kak qila itu cantik banget gemasss, lucu juga kakaknyaa",  
+                "kesan": "Kak qila itu cantik banget gemasss, lucu juga kakaknyaa",
                 "pesan": "Semangat kuliahnyaa kakakn cantik secantik bunga matahari"
             },
             {
@@ -442,7 +442,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Ujung Terang",
                 "hobbi": "Bulu Tangkis",
                 "sosmed": "@hazelhandhaka",
-                "kesan": "Bang hazel keren bangett, baik jugaa, ngefans aku bang",  
+                "kesan": "Bang hazel keren bangett, baik jugaa, ngefans aku bang",
                 "pesan": "Semangat abangg kuliahnyaa, semangat basonnyaa, semangatt"
             },
             {
@@ -453,7 +453,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Sukarame",
                 "hobbi": "Denger Lagu",
                 "sosmed": "@nadyaanjaani",
-                "kesan": "Kak nadya cantik banget, keren bangett pas materii",  
+                "kesan": "Kak nadya cantik banget, keren bangett pas materii",
                 "pesan": "Kakak semangat yaaa kuliahnyaa kamu keren bangett"
             },
             {
@@ -464,7 +464,7 @@ elif menu == "Badan Kesenatoran":
                 "alamat": "Jl. Lapas Belwis",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@dwi_rahmftrnii",
-                "kesan": "Ibu mentor yang cantik, baik, imup nan lucu sekaliii",  
+                "kesan": "Ibu mentor yang cantik, baik, imup nan lucu sekaliii",
                 "pesan": "Semangat kak dwiiii kuliahnyaaa, greedy cinta kamu kakakk"
             },
         ]
@@ -710,40 +710,7 @@ elif menu == "Departemen SSD":
                 "sosmed": "-",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",
                 "pesan": "semangat terus kuliahnya kakak !!!",
-            },
-            {
-                "nama": "Hasan Nur Ramadhan",
-                "nim": "124450013",
-                "umur": "25",
-                "asal": "Lamteng",
-                "alamat": "Pemda",
-                "hobbi": "Nonton yutub",
-                "sosmed": "-",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",
-                "pesan": "semangat terus kuliahnya kakak !!!",
-            },
-            {
-                "nama": "Layina Ropiqo",
-                "nim": "124450016",
-                "umur": "20",
-                "asal": "Semarang",
-                "alamat": "Balam",
-                "hobbi": "Nonton dracin",
-                "sosmed": "@layinr_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",
-                "pesan": "semangat terus kuliahnya kakak !!!",
-            },
-            {
-                "nama": "Talitha Justine",
-                "nim": "124450076",
-                "umur": "19",
-                "asal": "Sumbar",
-                "alamat": "Pemda",
-                "hobbi": "Nonton",
-                "sosmed": "@talljt",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",
-                "pesan": "semangat terus kuliahnya kakak !!!",
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_SSD()
