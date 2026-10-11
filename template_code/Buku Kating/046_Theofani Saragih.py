@@ -21,6 +21,7 @@ def streamlit_menu():
             "Departemen Internal",
             "Departemen SSD",
             "Departemen Medkraf",
+			"Departemen Minbak",
         ],
         icons=[
             "people-fill",
@@ -32,6 +33,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
+			"people-fill",
         ],
         default_index=0,
         orientation="horizontal",
@@ -559,6 +561,17 @@ if menu == "Departemen SSD":
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",
                 "pesan": "semangat terus kuliahnya kakak !!!",
             },
+            {
+                "nama": "Mochammad Iqbal Az-zahir",
+                "nim": "124450052",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Natar",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@iqbalazzahir_",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",
+            },
             # --- Divisi Kewirausahaan ---
             {
                 "nama": "Anadia Carana",
@@ -614,7 +627,198 @@ if menu == "Departemen SSD":
                 "sosmed": "@delaanisafitri",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",
                 "pesan": "semangat terus kuliahnya kakak !!!",
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Ssd()
+
+
+# Minat dan Bakat
+elif menu == "Departemen Minbak":
+    def Departemen_Minbak():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1NyJ_4DBVum_5PPU2FMtrgDXzxO4rQd5p",
+            "https://drive.google.com/uc?export=view&id=1nrpTGqeKfrYsfdpC_HYIbLMjB0h8sbf-",
+            "https://drive.google.com/uc?export=view&id=1hBgLsM05ZjZ93SmC32u3avOAUogBBqvY",
+            "https://drive.google.com/uc?export=view&id=18eJT124fqSRl8UcCXUFB4S9Cj3x7zSiY",
+            "https://drive.google.com/uc?export=view&id=11Ct4vWdDQX0tQBI2EbbpdeTSgr7q8_eP",
+            "https://drive.google.com/uc?export=view&id=1w2PG2XNb2OExY19EjoIo2xWjoy5v_QpD",
+            "https://drive.google.com/uc?export=view&id=1gR3zMa06-DFnJc7OG8Hxg4mAEhy8Al4I",
+            "https://drive.google.com/uc?export=view&id=13pdoDh-vjFyfYpnXrp4zAd7gJpDM-Hov",
+            "https://drive.google.com/uc?export=view&id=1_MfBAjtMdMmQ8tqDx9Jg-27Ryga5oOfU",
+            "https://drive.google.com/uc?export=view&id=1xLNZQHgcMFpNmbsVcbAh_cLddYnCPDqw",
+            "https://drive.google.com/uc?export=view&id=1J4XCY6Kkk2ZlI11j6ttcQPrgkKUZlgCb",
+            "https://drive.google.com/uc?export=view&id=1TbT35lgpEoQPY-sHuRe9_AVEIz4pRdDU",
+            "https://drive.google.com/uc?export=view&id=1XISpsRNJauGJOMY4cBBdI-6Igt_mzIEu",
+            "https://drive.google.com/uc?export=view&id=1FuviEQ5SjKb80RMB7xIgkYzDiosMbIcC",
+            "https://drive.google.com/uc?export=view&id=1ciCEmKohqRvB1XROIJB5qH8IaotU7acL"
+        ]
+        data_list = [
+		    {
+		        "nama": "Kevin Antonio Junior",
+		        "nim": "123450109",
+		        "umur": "23",
+		        "asal": "Sulawesi Tengah",
+		        "alamat": "Panjang",
+		        "hobbi": "Mancing",
+		        "sosmed": "@kevinaja__",
+		        "kesan": "Sangat menginspirasi dan memimpin dengan baik",
+		        "pesan": "Semangat terus kak!"
+		    },
+		    {
+		        "nama": "Gusti Putu Ferazka Dhiyamika",
+		        "nim": "123450046",
+		        "umur": "21",
+		        "asal": "Bekasi",
+		        "alamat": "Way Dadi",
+		        "hobbi": "Mendaki",
+		        "sosmed": "@ferazkaa",
+		        "kesan": "Sangat rapi dan cekatan dalam mengelola administrasi",
+		        "pesan": "Sukses selalu kak!"
+		    },
+		    {
+		        "nama": "Ali Aristo Muthahhari Parisi",
+		        "nim": "123450088",
+		        "umur": "21",
+		        "asal": "Lampung Timur",
+		        "alamat": "Gang Sakum Belwis",
+		        "hobbi": "Nonton F1",
+		        "sosmed": "@ali_parisi3",
+		        "kesan": "Keren dan selalu memberikan arahan yang jelas",
+		        "pesan": "Semangat menjalankan tugasnya kak!"
+		    },
+		    {
+		        "nama": "Ayu Andriani Parlina Wati",
+		        "nim": "124450058",
+		        "umur": "20",
+		        "asal": "Lampung Barat",
+		        "alamat": "Airan",
+		        "hobbi": "Belajar + menghitung uang",
+		        "sosmed": "@aayuandriani_",
+		        "kesan": "Sangat ramah dan aktif berkontribusi",
+		        "pesan": "Tetap semangat dan sukses terus!"
+		    },
+		    {
+		        "nama": "Dafa Elpriza",
+		        "nim": "124450131",
+		        "umur": "21",
+		        "asal": "Bekasi",
+		        "alamat": "Way Kandis",
+		        "hobbi": "Jogging",
+		        "sosmed": "@dafaelpriza_",
+		        "kesan": "Sangat menyenangkan dan mudah diajak kerja sama",
+		        "pesan": "Sukses terus perkuliahan dan aktivitasnya!"
+		    },
+		    {
+		        "nama": "Juwita Sari",
+		        "nim": "124450066",
+		        "umur": "19",
+		        "asal": "Lampung Barat",
+		        "alamat": "Pemda",
+		        "hobbi": "Mancing",
+		        "sosmed": "@ju.juwitaaa_",
+		        "kesan": "Sangat baik dan murah senyum",
+		        "pesan": "Semangat terus kuliahnya!"
+		    },
+		    {
+		        "nama": "Muhammad Afdal Luthfi",
+		        "nim": "124450047",
+		        "umur": "19",
+		        "asal": "Lampung Tengah",
+		        "alamat": "Jl. Pulau Damar",
+		        "hobbi": "Memantau dl tugas",
+		        "sosmed": "@afdall.03",
+		        "kesan": "Sangat bertanggung jawab dan fokus",
+		        "pesan": "Semangat terus kakak!"
+		    },
+		    {
+		        "nama": "Salsabila Nazwa Putri",
+		        "nim": "124450002",
+		        "umur": "20",
+		        "asal": "Metro",
+		        "alamat": "Korpri",
+		        "hobbi": "Nongkrong di kopken",
+		        "sosmed": "@slbnzw_",
+		        "kesan": "Sangat asik dan ceria",
+		        "pesan": "Tetap semangat kuliahnya ya kak!"
+		    },
+		    {
+		        "nama": "Muhammad Ridwan",
+		        "nim": "123450091",
+		        "umur": "21",
+		        "asal": "Lampung Tengah",
+		        "alamat": "Belwis",
+		        "hobbi": "Badminton",
+		        "sosmed": "@mridwaan_22",
+		        "kesan": "Sangat mengayomi dan membimbing dengan sabar",
+		        "pesan": "Semangat terus memimpin divisinya kak!"
+		    },
+		    {
+		        "nama": "Andra Ilham Bintang",
+		        "nim": "124450060",
+		        "umur": "18",
+		        "asal": "Sumatera Selatan",
+		        "alamat": "Kotabaru",
+		        "hobbi": "Main rubik",
+		        "sosmed": "@andra.lhm",
+		        "kesan": "Sangat kreatif dan pintar",
+		        "pesan": "Sukses selalu kuliahnya!"
+		    },
+		    {
+		        "nama": "Bryan Paskah Telaumbanua",
+		        "nim": "124450003",
+		        "umur": "20",
+		        "asal": "Nias",
+		        "alamat": "Belwis",
+		        "hobbi": "Live tiktok",
+		        "sosmed": "@bryantel_",
+		        "kesan": "Sangat menghibur dan ramah",
+		        "pesan": "Semangat terus berkarya kak!"
+		    },
+		    {
+		        "nama": "Ghiyats Thabularasa Meardhy",
+		        "nim": "124450067",
+		        "umur": "17",
+		        "asal": "Surabaya",
+		        "alamat": "Kemiling",
+		        "hobbi": "Nanem Sawit",
+		        "sosmed": "@meardhy_ghiyats",
+		        "kesan": "Sangat unik dan bersemangat",
+		        "pesan": "Tetap semangat dan sukses selalu!"
+		    },
+		    {
+		        "nama": "Indah Julia Mawar Pratiwi",
+		        "nim": "124450055",
+		        "umur": "20",
+		        "asal": "Pringsewu",
+		        "alamat": "Airan",
+		        "hobbi": "Bengong",
+		        "sosmed": "@indahjuliaa",
+		        "kesan": "Sangat baik dan bersahabat",
+		        "pesan": "Sukses terus perkuliahannya kak!"
+		    },
+		    {
+		        "nama": "Jacinda Kesya Alvara",
+		        "nim": "124450023",
+		        "umur": "18",
+		        "asal": "Kalimantan Barat",
+		        "alamat": "Korpri",
+		        "hobbi": "Nyapu depan gacoan",
+		        "sosmed": "@cacalvra",
+		        "kesan": "Sangat ceria dan menyenangkan",
+		        "pesan": "Semangat terus ya kak!"
+		    },
+		    {
+		        "nama": "Muhammad Rafka",
+		        "nim": "124450089",
+		        "umur": "20",
+		        "asal": "Padang",
+		        "alamat": "Kotabaru",
+		        "hobbi": "Bangun pagi",
+		        "sosmed": "@muhammdrafka_",
+		        "kesan": "Sangat disiplin dan dapat diandalkan",
+		        "pesan": "Sukses selalu buat perkuliahannya!"
+		    }
+		]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_Minbak()
