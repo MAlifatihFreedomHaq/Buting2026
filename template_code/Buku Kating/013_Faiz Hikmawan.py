@@ -492,7 +492,7 @@ elif menu == "Departemen Minbak":
             "https://drive.google.com/uc?export=view&id=1C8_2h67_WKBnPUpwkkTm9AfSi7W2H7_z",
             "https://drive.google.com/uc?export=view&id=1mjHinYhIBpyeWsNWf_jMBdvWHjECt162",
         ]
-       data_list = [
+        data_list = [
     {
         "nama": "Kevin Antonio Junior",
         "nim": "123450109",
